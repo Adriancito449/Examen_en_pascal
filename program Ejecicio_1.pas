@@ -54,7 +54,7 @@ begin
 	repeat
 		begin
 		fibonochi();
-		writeln('si desea terminar el programa marque si no maque 2 cualquier otro numer ');
+		writeln('si desea terminar el programa marque 2 si no marque cualquier otro numero ');
 		readln(d);
 		end;
 	until (d = 2);
