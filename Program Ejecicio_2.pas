@@ -54,7 +54,7 @@ d: integer;
 
 begin
 
-	ClrScr;  
+	ClrScr;
 	writeln();
 	writeln();
 	writeln('Bienvenidos a limalalya');
